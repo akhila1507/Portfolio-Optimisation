@@ -1,1 +1,1 @@
-
+The project focused on generating the Minimum Variance Portfolio on diversely selected Indian stocks. It gave me a deeper idea on the concepts I had learnt from the book like CAPM, Sharpe ratio etc. It was my first project in the field of Quantitative Finance and this really gave me a deeper insight into the field as well.
